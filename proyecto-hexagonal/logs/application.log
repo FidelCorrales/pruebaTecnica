@@ -1,0 +1,1077 @@
+2025-05-08 09:33:49 - Starting EmployeeManagementApplicationTests using Java 17.0.12 with PID 15872 (started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 09:33:49 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 09:33:50 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 09:33:50 - Finished Spring Data repository scanning in 83 ms. Found 1 JPA repository interface.
+2025-05-08 09:33:51 - HikariPool-1 - Starting...
+2025-05-08 09:33:51 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 09:33:51 - HikariPool-1 - Start completed.
+2025-05-08 09:33:51 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 09:33:51 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 09:33:51 - HHH000026: Second-level cache disabled
+2025-05-08 09:33:52 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 09:33:52 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 09:33:52 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 09:33:53 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 09:33:53 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 09:33:54 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 09:33:54 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 09:33:54 - Started EmployeeManagementApplicationTests in 5.66 seconds (process running for 7.933)
+2025-05-08 09:33:56 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 09:33:56 - HikariPool-1 - Shutdown initiated...
+2025-05-08 09:33:56 - HikariPool-1 - Shutdown completed.
+2025-05-08 09:43:58 - Starting EmployeeManagementApplicationTests using Java 17.0.12 with PID 7884 (started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 09:43:58 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 09:43:58 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 09:43:59 - Finished Spring Data repository scanning in 77 ms. Found 1 JPA repository interface.
+2025-05-08 09:43:59 - HikariPool-1 - Starting...
+2025-05-08 09:43:59 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 09:43:59 - HikariPool-1 - Start completed.
+2025-05-08 09:43:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 09:43:59 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 09:44:00 - HHH000026: Second-level cache disabled
+2025-05-08 09:44:00 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 09:44:00 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 09:44:00 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 09:44:01 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 09:44:01 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 09:44:02 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 09:44:02 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 09:44:02 - Started EmployeeManagementApplicationTests in 4.907 seconds (process running for 5.976)
+2025-05-08 09:44:03 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 09:44:03 - HikariPool-1 - Shutdown initiated...
+2025-05-08 09:44:03 - HikariPool-1 - Shutdown completed.
+2025-05-08 10:33:19 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 10708 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 10:33:19 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 10:33:20 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 10:33:20 - Finished Spring Data repository scanning in 45 ms. Found 1 JPA repository interface.
+2025-05-08 10:33:20 - Tomcat initialized with port 8080 (http)
+2025-05-08 10:33:20 - Starting service [Tomcat]
+2025-05-08 10:33:20 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 10:33:20 - Initializing Spring embedded WebApplicationContext
+2025-05-08 10:33:20 - Root WebApplicationContext: initialization completed in 1291 ms
+2025-05-08 10:33:20 - =====> API Logger Config Initialized
+2025-05-08 10:33:21 - HikariPool-1 - Starting...
+2025-05-08 10:33:21 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 10:33:21 - HikariPool-1 - Start completed.
+2025-05-08 10:33:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 10:33:21 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 10:33:21 - HHH000026: Second-level cache disabled
+2025-05-08 10:33:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 10:33:21 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 10:33:21 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 10:33:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 10:33:22 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 10:33:22 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 10:33:23 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 10:33:23 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 10:33:23 - Started EmployeeManagementApplication in 4.137 seconds (process running for 4.426)
+2025-05-08 10:33:59 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 10:33:59 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 10:33:59 - Completed initialization in 1 ms
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: none | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui.css 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: text/css,*/*;q=0.1 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: style | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-bundle.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.css 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: text/css,*/*;q=0.1 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: style | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-standalone-preset.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/favicon-32x32.png 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: image | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 10:33:59 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:33:59 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:34:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:34:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:34:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:34:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 10:34:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:34:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:35:07 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:35:07 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:35:08 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-bundle.js.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:35:08 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-standalone-preset.js.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:35:08 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:35:08 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui.css.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:35:08 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:35:08 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:36:34 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 8d9f1dd1-8bb4-4994-a9a2-874452848f4b | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | ]
+2025-05-08 10:36:34 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 10:40:26 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: none | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:26 - 
+?? [RESPONSE] - [GET] 
+	Status: 302 
+	Headers: [[Location]]
+2025-05-08 10:40:26 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: none | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | accept-encoding: gzip, deflate, br, zstd | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 10:40:26 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:26 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:40:26 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:40:26 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui.css 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: text/css,*/*;q=0.1 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: style | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-standalone-preset.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-bundle.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.css 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: text/css,*/*;q=0.1 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: style | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui.css.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-bundle.js.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-standalone-preset.js.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 10:40:27 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:27 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:40:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:40:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:40:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:40:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 10:40:36 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:40:36 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:43:06 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 10:43:06 - Graceful shutdown complete
+2025-05-08 10:43:06 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 10:43:06 - HikariPool-1 - Shutdown initiated...
+2025-05-08 10:43:06 - HikariPool-1 - Shutdown completed.
+2025-05-08 10:43:06 - =====> API Logger Config Destroyed
+2025-05-08 10:43:55 - Starting EmployeeManagementApplicationTests using Java 17.0.12 with PID 13948 (started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 10:43:55 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 10:43:57 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 10:43:57 - Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interface.
+2025-05-08 10:43:57 - HikariPool-1 - Starting...
+2025-05-08 10:43:57 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 10:43:57 - HikariPool-1 - Start completed.
+2025-05-08 10:43:58 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 10:43:58 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 10:43:58 - HHH000026: Second-level cache disabled
+2025-05-08 10:43:58 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 10:43:58 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 10:43:58 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 10:43:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 10:43:59 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 10:44:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 10:44:00 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 10:44:00 - Started EmployeeManagementApplicationTests in 5.632 seconds (process running for 6.898)
+2025-05-08 10:44:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 10:44:01 - HikariPool-1 - Shutdown initiated...
+2025-05-08 10:44:02 - HikariPool-1 - Shutdown completed.
+2025-05-08 10:45:13 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 18100 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 10:45:13 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 10:45:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 10:45:13 - Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interface.
+2025-05-08 10:45:14 - Tomcat initialized with port 8080 (http)
+2025-05-08 10:45:14 - Starting service [Tomcat]
+2025-05-08 10:45:14 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 10:45:14 - Initializing Spring embedded WebApplicationContext
+2025-05-08 10:45:14 - Root WebApplicationContext: initialization completed in 1395 ms
+2025-05-08 10:45:14 - =====> API Logger Config Initialized
+2025-05-08 10:45:14 - HikariPool-1 - Starting...
+2025-05-08 10:45:14 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 10:45:14 - HikariPool-1 - Start completed.
+2025-05-08 10:45:14 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 10:45:15 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 10:45:15 - HHH000026: Second-level cache disabled
+2025-05-08 10:45:15 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 10:45:15 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 10:45:15 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 10:45:16 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 10:45:16 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 10:45:16 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 10:45:16 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 10:45:16 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 10:45:16 - Started EmployeeManagementApplication in 4.215 seconds (process running for 4.504)
+2025-05-08 10:45:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 10:45:31 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 10:45:31 - Completed initialization in 2 ms
+2025-05-08 10:45:31 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:45:31 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 10:45:31 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 10:45:31 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:45:31 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 10:45:31 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 10:45:31 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 10:45:32 - Init duration for springdoc-openapi is: 628 ms
+2025-05-08 10:45:32 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 11:03:46 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /api/v1/employees/1 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: */* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 11:03:48 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 11:34:44 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /api/v1/employees/1 
+	Headers: [user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 93ceb4c9-a989-435c-a586-867af8fd5f06 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | ]
+2025-05-08 11:34:44 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 12:28:22 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | cache-control: max-age=0 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | accept-encoding: gzip, deflate, br, zstd | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 12:28:22 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:22 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.css 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: text/css,*/*;q=0.1 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: style | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:22 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui.css 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: text/css,*/*;q=0.1 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: style | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:22 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:22 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-bundle.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:22 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:22 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-standalone-preset.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:22 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:22 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:22 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui.css.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-bundle.js.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-ui-standalone-preset.js.map 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/favicon-32x32.png 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: image | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | if-modified-since: Thu, 08 May 2025 15:43:52 GMT | ]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 12:28:23 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:28:23 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:31:00 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | cache-control: max-age=0 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | accept-encoding: gzip, deflate, br, zstd | if-modified-since: Thu, 08 May 2025 15:33:35 GMT | ]
+2025-05-08 12:31:00 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:31:00 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 12:31:00 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:31:00 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:31:00 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 12:31:00 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:31:00 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 12:31:00 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:31:00 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:33:35 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | cache-control: max-age=0 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | accept-encoding: gzip, deflate, br, zstd | if-modified-since: Thu, 08 May 2025 15:33:35 GMT | ]
+2025-05-08 12:33:35 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:33:35 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 12:33:35 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:33:35 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 12:33:35 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:33:35 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:33:35 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 12:33:35 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:33:35 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:33:43 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/index.html 
+	Headers: [host: localhost:8080 | connection: keep-alive | cache-control: max-age=0 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-ch-ua-platform: "Windows" | upgrade-insecure-requests: 1 | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: navigate | sec-fetch-user: ?1 | sec-fetch-dest: document | accept-encoding: gzip, deflate, br, zstd | if-modified-since: Thu, 08 May 2025 15:33:35 GMT | ]
+2025-05-08 12:33:43 - 
+?? [RESPONSE] - [GET] 
+	Status: 304 
+	Headers: [[Vary, Vary, Vary, Last-Modified]]
+2025-05-08 12:33:43 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /.well-known/appspecific/com.chrome.devtools.json 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: empty | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept-encoding: gzip, deflate, br, zstd | accept-language: es-ES,es;q=0.9 | ]
+2025-05-08 12:33:43 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /swagger-ui/swagger-initializer.js 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: no-cors | sec-fetch-dest: script | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:33:43 - 
+?? [RESPONSE] - [GET] 
+	Status: 500 
+	Headers: [[Vary, Vary, Vary, Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 12:33:43 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Vary, Vary, Vary, Last-Modified, Cache-Control, Accept-Ranges, Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:33:43 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs/swagger-config 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | accept: */* | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:33:43 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 12:33:43 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /v3/api-docs 
+	Headers: [host: localhost:8080 | connection: keep-alive | sec-ch-ua-platform: "Windows" | user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 | accept: application/json,*/* | sec-ch-ua: "Chromium";v="136", "Brave";v="136", "Not.A/Brand";v="99" | sec-ch-ua-mobile: ?0 | sec-gpc: 1 | accept-language: es-ES,es;q=0.8 | sec-fetch-site: same-origin | sec-fetch-mode: cors | sec-fetch-dest: empty | referer: http://localhost:8080/swagger-ui/index.html | accept-encoding: gzip, deflate, br, zstd | ]
+2025-05-08 12:33:43 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Content-Length, Date, Keep-Alive, Connection]]
+2025-05-08 12:34:27 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 5dcabdef-729d-496b-be99-9af30eb04a6d | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 448 | ]
+2025-05-08 12:34:28 - SQL Error: 23502, SQLState: 23502
+2025-05-08 12:34:28 - La columna "FIRST_NAME" no permite valores nulos (NULL)
+NULL not allowed for column "FIRST_NAME"; SQL statement:
+insert into employees (age,birth_date,first_name,gender,last_name,middle_name,position,second_last_name,id) values (?,?,?,?,?,?,?,?,default) [23502-214]
+2025-05-08 12:34:28 - 
+?? [RESPONSE] - [POST] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 12:53:56 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 12:53:56 - Graceful shutdown complete
+2025-05-08 12:53:56 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 12:53:56 - HikariPool-1 - Shutdown initiated...
+2025-05-08 12:53:56 - HikariPool-1 - Shutdown completed.
+2025-05-08 12:53:56 - =====> API Logger Config Destroyed
+2025-05-08 13:11:15 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 2076 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 13:11:15 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 13:11:16 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 13:11:16 - Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interface.
+2025-05-08 13:11:17 - Tomcat initialized with port 8080 (http)
+2025-05-08 13:11:17 - Starting service [Tomcat]
+2025-05-08 13:11:17 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 13:11:17 - Initializing Spring embedded WebApplicationContext
+2025-05-08 13:11:17 - Root WebApplicationContext: initialization completed in 1302 ms
+2025-05-08 13:11:17 - =====> API Logger Config Initialized
+2025-05-08 13:11:17 - HikariPool-1 - Starting...
+2025-05-08 13:11:17 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 13:11:17 - HikariPool-1 - Start completed.
+2025-05-08 13:11:17 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 13:11:17 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 13:11:17 - HHH000026: Second-level cache disabled
+2025-05-08 13:11:18 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 13:11:18 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 13:11:18 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 13:11:19 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 13:11:19 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 13:11:19 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 13:11:20 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 13:11:20 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 13:11:20 - Started EmployeeManagementApplication in 4.907 seconds (process running for 5.23)
+2025-05-08 13:12:28 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 13:12:28 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 13:12:28 - Completed initialization in 2 ms
+2025-05-08 13:12:28 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 3afe0a19-c5ff-4040-a089-b164bacaf286 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 416 | ]
+2025-05-08 13:12:28 - Start Create one or multiple employees process
+2025-05-08 13:12:28 - Finish Create one or multiple employees process
+2025-05-08 13:12:28 - 
+?? [RESPONSE] - [POST] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 13:13:36 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 1538d125-ac88-487d-bcad-753b38c03e4f | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 223 | ]
+2025-05-08 13:13:36 - Start Create one or multiple employees process
+2025-05-08 13:13:36 - Finish Create one or multiple employees process
+2025-05-08 13:13:36 - 
+?? [RESPONSE] - [POST] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 13:14:00 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 0e3bfeec-dab9-4f6f-9f1d-cf478b02ebd4 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | ]
+2025-05-08 13:14:00 - Start get All Employees process
+2025-05-08 13:14:00 - Finish get All Employees process
+2025-05-08 13:14:00 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 13:52:07 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 13:52:07 - Graceful shutdown complete
+2025-05-08 13:52:07 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 13:52:07 - HikariPool-1 - Shutdown initiated...
+2025-05-08 13:52:07 - HikariPool-1 - Shutdown completed.
+2025-05-08 13:52:07 - =====> API Logger Config Destroyed
+2025-05-08 13:52:21 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 1232 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 13:52:21 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 13:52:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 13:52:22 - Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interface.
+2025-05-08 13:52:23 - Tomcat initialized with port 8080 (http)
+2025-05-08 13:52:23 - Starting service [Tomcat]
+2025-05-08 13:52:23 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 13:52:23 - Initializing Spring embedded WebApplicationContext
+2025-05-08 13:52:23 - Root WebApplicationContext: initialization completed in 1733 ms
+2025-05-08 13:52:23 - =====> API Logger Config Initialized
+2025-05-08 13:52:23 - HikariPool-1 - Starting...
+2025-05-08 13:52:23 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 13:52:23 - HikariPool-1 - Start completed.
+2025-05-08 13:52:23 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 13:52:23 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 13:52:23 - HHH000026: Second-level cache disabled
+2025-05-08 13:52:23 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 13:52:24 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 13:52:24 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 13:52:25 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 13:52:25 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 13:52:26 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 13:52:26 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 13:52:26 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 13:52:26 - Started EmployeeManagementApplication in 5.758 seconds (process running for 6.141)
+2025-05-08 13:52:52 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 13:52:52 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 13:52:52 - Completed initialization in 3 ms
+2025-05-08 13:52:52 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 7cb11025-453f-4390-99bd-4f43673685f6 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 225 | ]
+2025-05-08 13:52:52 - Start Create one or multiple employees process
+2025-05-08 13:52:52 - 
+?? [RESPONSE] - [POST] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 13:53:46 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 9a696cf7-c5ff-47ef-9a0d-fa1b634993a3 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 225 | ]
+2025-05-08 13:53:46 - Start Create one or multiple employees process
+2025-05-08 13:53:46 - 
+?? [RESPONSE] - [POST] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 14:02:48 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 14:02:48 - Graceful shutdown complete
+2025-05-08 14:02:48 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:02:48 - HikariPool-1 - Shutdown initiated...
+2025-05-08 14:02:48 - HikariPool-1 - Shutdown completed.
+2025-05-08 14:02:48 - =====> API Logger Config Destroyed
+2025-05-08 14:03:03 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 9100 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 14:03:03 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 14:03:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 14:03:04 - Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interface.
+2025-05-08 14:03:05 - Tomcat initialized with port 8080 (http)
+2025-05-08 14:03:05 - Starting service [Tomcat]
+2025-05-08 14:03:05 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 14:03:05 - Initializing Spring embedded WebApplicationContext
+2025-05-08 14:03:05 - Root WebApplicationContext: initialization completed in 1400 ms
+2025-05-08 14:03:05 - =====> API Logger Config Initialized
+2025-05-08 14:03:05 - HikariPool-1 - Starting...
+2025-05-08 14:03:05 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 14:03:05 - HikariPool-1 - Start completed.
+2025-05-08 14:03:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 14:03:05 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 14:03:05 - HHH000026: Second-level cache disabled
+2025-05-08 14:03:06 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 14:03:06 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 14:03:06 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 14:03:07 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 14:03:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:03:07 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 14:03:08 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 14:03:08 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 14:03:08 - Started EmployeeManagementApplication in 5.295 seconds (process running for 5.61)
+2025-05-08 14:03:50 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 14:03:50 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 14:03:50 - Completed initialization in 1 ms
+2025-05-08 14:03:50 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: a529927e-bd76-42e2-b45f-979d812896a9 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 225 | ]
+2025-05-08 14:03:51 - Start Create one or multiple employees process
+2025-05-08 14:03:51 - Invalid birth date
+2025-05-08 14:03:51 - 
+?? [RESPONSE] - [POST] 
+	Status: 500 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Connection]]
+2025-05-08 14:04:36 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 14:04:36 - Graceful shutdown complete
+2025-05-08 14:04:36 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:04:36 - HikariPool-1 - Shutdown initiated...
+2025-05-08 14:04:36 - HikariPool-1 - Shutdown completed.
+2025-05-08 14:04:36 - =====> API Logger Config Destroyed
+2025-05-08 14:04:48 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 14220 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 14:04:48 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 14:04:48 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 14:04:49 - Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interface.
+2025-05-08 14:04:49 - Tomcat initialized with port 8080 (http)
+2025-05-08 14:04:49 - Starting service [Tomcat]
+2025-05-08 14:04:49 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 14:04:50 - Initializing Spring embedded WebApplicationContext
+2025-05-08 14:04:50 - Root WebApplicationContext: initialization completed in 1613 ms
+2025-05-08 14:04:50 - =====> API Logger Config Initialized
+2025-05-08 14:04:50 - HikariPool-1 - Starting...
+2025-05-08 14:04:50 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 14:04:50 - HikariPool-1 - Start completed.
+2025-05-08 14:04:50 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 14:04:50 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 14:04:50 - HHH000026: Second-level cache disabled
+2025-05-08 14:04:50 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 14:04:50 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 14:04:50 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 14:04:52 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 14:04:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:04:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 14:04:53 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 14:04:53 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 14:04:53 - Started EmployeeManagementApplication in 5.501 seconds (process running for 5.789)
+2025-05-08 14:06:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 14:06:15 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 14:06:15 - Completed initialization in 2 ms
+2025-05-08 14:06:15 - 
+?? [REQUEST] - [POST HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: ec3a617a-db09-4a12-882a-703fd2d914e1 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 225 | ]
+2025-05-08 14:06:15 - Start Create one or multiple employees process
+2025-05-08 14:06:15 - Invalid birth date
+2025-05-08 14:06:15 - 
+?? [RESPONSE] - [POST] 
+	Status: 502 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 14:06:38 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 14:06:38 - Graceful shutdown complete
+2025-05-08 14:06:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:06:38 - HikariPool-1 - Shutdown initiated...
+2025-05-08 14:06:38 - HikariPool-1 - Shutdown completed.
+2025-05-08 14:06:38 - =====> API Logger Config Destroyed
+2025-05-08 14:13:01 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 18348 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 14:13:01 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 14:13:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 14:13:02 - Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interface.
+2025-05-08 14:13:03 - Tomcat initialized with port 8080 (http)
+2025-05-08 14:13:03 - Starting service [Tomcat]
+2025-05-08 14:13:03 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 14:13:03 - Initializing Spring embedded WebApplicationContext
+2025-05-08 14:13:03 - Root WebApplicationContext: initialization completed in 1604 ms
+2025-05-08 14:13:03 - =====> API Logger Config Initialized
+2025-05-08 14:13:03 - HikariPool-1 - Starting...
+2025-05-08 14:13:03 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 14:13:03 - HikariPool-1 - Start completed.
+2025-05-08 14:13:03 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 14:13:03 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 14:13:03 - HHH000026: Second-level cache disabled
+2025-05-08 14:13:04 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 14:13:04 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 14:13:04 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 14:13:05 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 14:13:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:13:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 14:13:07 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 14:13:07 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 14:13:07 - Started EmployeeManagementApplication in 5.889 seconds (process running for 6.16)
+2025-05-08 14:13:46 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 14:13:46 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 14:13:46 - Completed initialization in 1 ms
+2025-05-08 14:13:46 - 
+?? [REQUEST] - [PUT HTTP/1.1] 
+	URI: /api/v1/employees/1 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 4a21b3e3-4f49-45eb-a368-4a36ef2bec7c | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 170 | ]
+2025-05-08 14:13:46 - Start Update an existing employee process
+2025-05-08 14:13:46 - Finish Update an existing employee process
+2025-05-08 14:13:46 - 
+?? [RESPONSE] - [PUT] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 14:14:59 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 14:14:59 - Graceful shutdown complete
+2025-05-08 14:14:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:14:59 - HikariPool-1 - Shutdown initiated...
+2025-05-08 14:14:59 - HikariPool-1 - Shutdown completed.
+2025-05-08 14:14:59 - =====> API Logger Config Destroyed
+2025-05-08 14:15:09 - Starting EmployeeManagementApplication using Java 17.0.12 with PID 7696 (C:\Users\DEGT\Downloads\proyecto-hexagonal\target\classes started by DEGT in C:\Users\DEGT\Downloads\proyecto-hexagonal)
+2025-05-08 14:15:09 - No active profile set, falling back to 1 default profile: "default"
+2025-05-08 14:15:10 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-08 14:15:10 - Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interface.
+2025-05-08 14:15:10 - Tomcat initialized with port 8080 (http)
+2025-05-08 14:15:10 - Starting service [Tomcat]
+2025-05-08 14:15:10 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-08 14:15:10 - Initializing Spring embedded WebApplicationContext
+2025-05-08 14:15:10 - Root WebApplicationContext: initialization completed in 1143 ms
+2025-05-08 14:15:10 - =====> API Logger Config Initialized
+2025-05-08 14:15:10 - HikariPool-1 - Starting...
+2025-05-08 14:15:11 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2025-05-08 14:15:11 - HikariPool-1 - Start completed.
+2025-05-08 14:15:11 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-08 14:15:11 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-08 14:15:11 - HHH000026: Second-level cache disabled
+2025-05-08 14:15:11 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-08 14:15:11 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-05-08 14:15:11 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 2.1.214
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-08 14:15:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-08 14:15:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:15:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-08 14:15:12 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2025-05-08 14:15:12 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-08 14:15:12 - Started EmployeeManagementApplication in 3.706 seconds (process running for 3.963)
+2025-05-08 14:15:18 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 14:15:18 - Initializing Servlet 'dispatcherServlet'
+2025-05-08 14:15:18 - Completed initialization in 2 ms
+2025-05-08 14:15:18 - 
+?? [REQUEST] - [PUT HTTP/1.1] 
+	URI: /api/v1/employees/1 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 88b0407e-924a-44c7-8f68-a433900f32da | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 155 | ]
+2025-05-08 14:15:18 - Start Update an existing employee process
+2025-05-08 14:15:18 - Finish Update an existing employee process
+2025-05-08 14:15:18 - 
+?? [RESPONSE] - [PUT] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 14:16:20 - 
+?? [REQUEST] - [PUT HTTP/1.1] 
+	URI: /api/v1/employees/1 
+	Headers: [content-type: application/json | user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 5ef868a1-ef32-4966-9e44-6e74455a2e69 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | content-length: 155 | ]
+2025-05-08 14:16:20 - Start Update an existing employee process
+2025-05-08 14:16:20 - Finish Update an existing employee process
+2025-05-08 14:16:20 - 
+?? [RESPONSE] - [PUT] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 14:16:31 - 
+?? [REQUEST] - [GET HTTP/1.1] 
+	URI: /api/v1/employees 
+	Headers: [user-agent: PostmanRuntime/7.43.4 | accept: */* | cache-control: no-cache | postman-token: 3f1de107-f4b7-4c16-b639-de63d4a884f1 | host: localhost:8080 | accept-encoding: gzip, deflate, br | connection: keep-alive | ]
+2025-05-08 14:16:31 - Start get All Employees process
+2025-05-08 14:16:31 - Finish get All Employees process
+2025-05-08 14:16:31 - 
+?? [RESPONSE] - [GET] 
+	Status: 200 
+	Headers: [[Content-Type, Transfer-Encoding, Date, Keep-Alive, Connection]]
+2025-05-08 14:16:43 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-08 14:16:43 - Graceful shutdown complete
+2025-05-08 14:16:43 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-08 14:16:43 - HikariPool-1 - Shutdown initiated...
+2025-05-08 14:16:43 - HikariPool-1 - Shutdown completed.
+2025-05-08 14:16:43 - =====> API Logger Config Destroyed
