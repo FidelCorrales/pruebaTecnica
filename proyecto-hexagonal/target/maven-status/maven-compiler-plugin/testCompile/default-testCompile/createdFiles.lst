@@ -1,8 +1,0 @@
-mx\example\proyecto_hexagonal\application\exceptions\GlobalExceptionHandlerTest.class
-mx\example\proyecto_hexagonal\application\exceptions\custom\EmployeeAlreadyExistsExceptionTest.class
-mx\example\proyecto_hexagonal\application\exceptions\custom\HttpRequestFailedExceptionTest.class
-mx\example\proyecto_hexagonal\EmployeeManagementApplicationTests.class
-mx\example\proyecto_hexagonal\infrastructure\adapter\persistence\EmployeeServiceImplTest.class
-mx\example\proyecto_hexagonal\infrastructure\adapter\api\EmployeeControllerTest.class
-mx\example\proyecto_hexagonal\application\exceptions\custom\DatabaseConnectionExceptionTest.class
-mx\example\proyecto_hexagonal\application\exceptions\custom\EmployeeNotFoundExceptionTest.class
